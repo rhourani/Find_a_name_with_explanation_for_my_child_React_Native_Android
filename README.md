@@ -2,8 +2,7 @@
 
 A video shows the app running:
 
-https://www.youtube.com/embed/oQLABtKBDIg
-
+https://youtu.be/PTLp5Upx8x8
 
 
 <img src="1.jpg" align="left"   height= "15%" width= "30%">
