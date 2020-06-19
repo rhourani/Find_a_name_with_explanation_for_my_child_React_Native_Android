@@ -1,6 +1,18 @@
 # Find_a_name_with_explanation_for_my_child_React_Native_Android
 
 <div class= "row">
+  <div class = "col-md-4">
+    <img src="1.jpg" align="center">
+
+  </div>
+    <div class = "col-md-4">
+  <img src="1.jpg" align="center">
+
+  </div>
+    <div class = "col-md-4">
+  <img src="1.jpg" align="center">
+
+  </div>
 <img src="1.jpg" align="center">
 <img src="2.jpg" align="center">
 <img src="3.jpg" align="center">
