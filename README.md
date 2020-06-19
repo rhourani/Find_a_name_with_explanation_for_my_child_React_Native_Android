@@ -1,5 +1,7 @@
 # Find_a_name_with_explanation_for_my_child_React_Native_Android
 
+A video shows the app running:
+
 https://www.youtube.com/embed/oQLABtKBDIg
 
 
